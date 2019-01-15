@@ -1,0 +1,7 @@
+server:
+    addr: ""
+    port: "8888"
+    logPath: "/tmp/logs"
+
+callback_url:
+    jxhz: "http://localhost:8888/rectest"
